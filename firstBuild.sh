@@ -1,1 +1,1 @@
-echo "Testing of first jenkins job from git "
+echo "Welcome for Testing of first jenkins job from git "
